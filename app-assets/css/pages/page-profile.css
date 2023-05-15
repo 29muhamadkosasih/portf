@@ -59,7 +59,7 @@
 
 @media (max-width: 991.98px) {
   #user-profile .profile-latest-img img {
-    width: 100%; } }
+    width: auto; } }
 
 @media (min-width: 768px) {
   .profile-header-nav .profile-tabs {
